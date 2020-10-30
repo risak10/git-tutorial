@@ -11,4 +11,3 @@ for num in 1..100 do
                 puts "#{num}\n"
         end
 end
-
